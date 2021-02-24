@@ -1,0 +1,88 @@
+====================
+Entrada: ./in-0.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-1.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-10.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-2.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-3.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-4.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-5.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-6.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-7.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-8.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-9.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True

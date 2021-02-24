@@ -1,0 +1,27 @@
+====================
+Entrada: ./in-5.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Multi Core Performance True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-6.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Multi Core Performance True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True
+====================
+Entrada: ./in-9.txt
+Caminho Tem Distancia Mostrada True
+Fez 10N Solucoes True
+Multi Core Performance True
+Nao Tem Troca True
+Passa Por Todas Cidades True
+Toda Solucao Eh Otimo Local True
+Toda Solucao Tem Caminho Correto True

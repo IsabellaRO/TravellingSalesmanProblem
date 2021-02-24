@@ -1,0 +1,52 @@
+====================
+Entrada: ./in-0.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Program Stderr True
+Tour Otimo True
+====================
+Entrada: ./in-1.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Program Stderr True
+Tour Otimo True
+====================
+Entrada: ./in-2.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Program Stderr True
+Tour Otimo True
+====================
+Entrada: ./in-3.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Program Stderr True
+Tour Otimo True
+====================
+Entrada: ./in-4.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Program Stderr True
+Tour Otimo True
+====================
+Entrada: ./in-5.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Program Stderr True
+Tour Otimo True
+====================
+Entrada: ./in-6.txt
+Caminho Tem Distancia Mostrada True
+Opt 1 True
+Passa Por Todas Cidades True
+Program Stderr True
+Tour Otimo True
+====================
+Entrada: ./in-7.txt
+Timeout exceeded: 3600s
